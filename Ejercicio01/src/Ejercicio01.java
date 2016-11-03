@@ -6,7 +6,7 @@ public class Ejercicio01 {
 		
 		Scanner teclado = new Scanner(System.in);
 		
-		int a,b,res=0,z;
+		int a,b,res=0;
 		
 		
 		System.out.println("Introduce un numero\n");
